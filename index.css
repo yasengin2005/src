@@ -1,0 +1,20 @@
+li:hover {
+  color: red;
+}
+
+input {
+  background-color: rgb(229, 235, 238);
+}
+
+button {
+  background-color: hsla(253, 95%, 45%, 0.7);
+  color: white;
+  border: 1px solid blue;
+  border-radius: 2px;
+  margin: 1px;
+  padding: 2px;
+}
+
+button:hover {
+  background-color: hsla(253, 95%, 45%, 0.6);
+}
